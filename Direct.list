@@ -1,0 +1,21 @@
+# ShenGuanQun Direct Rules
+
+# 以下服务器和域名服务都需要直连才能连接成功
+
+# GoMotoTrip
+IP-CIDR,45.33.47.94/32
+
+# Oracle_Japan_Tokyo
+IP-CIDR,141.147.185.143/32
+
+# Oracle_Japan_Tokyo_Tool
+IP-CIDR,141.147.187.50/32
+
+# Oracle_Japan_Tokyo_FQ
+IP-CIDR,158.179.189.67/32
+
+DOMAIN-KEYWORD,fq.sgq.moe
+DOMAIN-KEYWORD,frps.sgq.moe
+
+# 手机配置直连才能开启和使用 WiFi Calling
+IP-CIDR,192.168.12.221/32
