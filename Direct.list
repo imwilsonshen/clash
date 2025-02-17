@@ -3,7 +3,7 @@
 # 以下服务器和域名服务都需要直连才能连接成功
 
 # GoMotoTrip
-IP-CIDR,45.33.47.94/32
+# IP-CIDR,45.33.47.94/32
 
 # Oracle_Japan_Tokyo
 IP-CIDR,141.147.185.143/32
