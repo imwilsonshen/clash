@@ -3,3 +3,5 @@
 # 解决包含去广告配置文件里面的规则把谷歌广告也封锁了！
 DOMAIN-KEYWORD,ads.google.com
 DOMAIN-SUFFIX,gomototrip.com
+
+IP-CIDR,192.168.12.221/32
