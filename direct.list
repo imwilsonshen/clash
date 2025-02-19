@@ -18,4 +18,4 @@ DOMAIN-KEYWORD,fq.sgq.moe
 DOMAIN-KEYWORD,frps.sgq.moe
 
 # 手机配置直连才能开启和使用 WiFi Calling
-#IP-CIDR,192.168.12.221/32
+IP-CIDR,192.168.12.221/32
