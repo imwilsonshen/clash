@@ -4,3 +4,6 @@
 DOMAIN-KEYWORD,ads.google.com
 DOMAIN-SUFFIX,gomototrip.com
 
+# 解决xbox在openclash开启之后碰到的联网问题
+DOMAIN-KEYWORD,msftconnecttest.com
+DOMAIN-KEYWORD,msftncsi.com
