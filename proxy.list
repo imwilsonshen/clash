@@ -3,7 +3,3 @@
 # 解决包含去广告配置文件里面的规则把谷歌广告也封锁了！
 DOMAIN-KEYWORD,ads.google.com
 DOMAIN-SUFFIX,gomototrip.com
-
-# 解决xbox在openclash开启之后碰到的联网问题
-DOMAIN-KEYWORD,msftconnecttest.com
-DOMAIN-KEYWORD,msftncsi.com
